@@ -21,9 +21,6 @@ Hi there 👋, I'm Tony Ye
 - 👨 My main projects are available at: [https://xuanye.ca](https://xuanye.ca)
 - ⚡ Fun fact: I have a cat
 
-<h2 align="center">
-Latest Projects
-</h2>
 
 
 <!--
