@@ -22,18 +22,19 @@ Hi there 👋, I'm Tony Ye
 - ⚡ Fun fact: I have a cat
 
 
-<h3 align="center">
+<h2 align="center">
 Streak Stats
-</h3>
+</h2>
+
 
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tonyxuan2021&theme=blueberry"/></a>
 </p>
 
 
-<h3 align="center">
+<h2 align="center">
 Technical Skills
-</h3>
+</h2>
 
 <h4>Core</h4>
 
