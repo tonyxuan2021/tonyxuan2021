@@ -16,8 +16,8 @@ Hi there 👋, I'm Tony Ye
 </p>
 
 
-- 🔭 I’m currently working on full stack web applications
-- 🌱 I’m interested in frontend and backend development
+- 🔭 I’m currently working on full stack web applications, including a clone of Instagram.
+- 🌱 I’m interested in frontend and backend development. Currently, I am learning Docker and kubernetes.
 - 👨 My main projects are available at: [https://xuanye.ca](https://xuanye.ca)
 - ⚡ Fun fact: I have a cat
 
