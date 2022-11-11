@@ -106,7 +106,7 @@ https://user-images.githubusercontent.com/93957228/200686802-651ee0d5-d8fe-4071-
   <a href="https://github.com/tonyxuan2021/dashboard-frontend" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
-  <a href="https://dashboard-diamond-admin.herokuapp.com/" target="_blank">
+  <a href="https://dashboard-diamond-app.netlify.app//" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
