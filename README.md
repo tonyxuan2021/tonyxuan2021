@@ -72,7 +72,7 @@ https://user-images.githubusercontent.com/93957228/200680230-b785ba3c-9e74-4af4-
         <p><strong>Embedded JavaScript (ES6), ReactJs, MUI, CSS, Redux + ReduxToolkit + RTK Query, NodeJs, ExpressJs, Prisma & PostgreSQL</strong> - Clone of Amazon.com is full stack web application built in a team of two that allows users to browse products, add items to the cart, and purchase. This project incorporated Redux hooks with Redux Toolkit for frontend data process and storage, it also used Prisma as primary ORM library for CRUD operations with PostgreSQL database.</p>
     </td>
 <td width="50%" valign="top">
-      <h3 align="center">The Hometown</h3>
+      <h3 align="center">The Booktown</h3>
         <br>
       <a target="_blank" href="https://booktown.xuanye.ca/"></a>    
 
