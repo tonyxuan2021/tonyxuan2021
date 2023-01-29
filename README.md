@@ -94,6 +94,25 @@ https://user-images.githubusercontent.com/93957228/200684357-2e041a9c-c063-4a51-
   </tr>
   
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Clone of Amazon.com</h3>
+        <br>
+      <a target="_blank" href="https://amazon.xuanye.ca/"></a>    
+
+
+https://user-images.githubusercontent.com/93957228/200680230-b785ba3c-9e74-4af4-9bcc-3f97d42fd50e.mp4
+
+      
+  <p align="center">
+  <a href="https://github.com/JoshL579/amazon-clone" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>  
+  <a href="https://amazon.xuanye.ca/" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+  </a>
+      </p>
+        <p><strong>Embedded JavaScript (ES6), ReactJs, MUI, CSS, Redux + ReduxToolkit + RTK Query, NodeJs, ExpressJs, Prisma & PostgreSQL</strong> - Clone of Amazon.com is full stack web application built in a team of two that allows users to browse products, add items to the cart, and purchase. This project incorporated Redux hooks with Redux Toolkit for frontend data process and storage, it also used Prisma as primary ORM library for CRUD operations with PostgreSQL database.</p>
+    </td>
 <td width="50%" valign="top">
       <h3 align="center">Diamond Admin PRO</h3>
         <br>
@@ -113,8 +132,8 @@ https://user-images.githubusercontent.com/93957228/200686802-651ee0d5-d8fe-4071-
       </p>
         <p><strong>ReactJs, MUI, react-calendar, react-chartjs-2, react-simple-maps</strong> - This project is a frontend focused dashboard flatform web application. The purpose of this project is to test the skills I have recently acquired, which is to practice the MUI library. In this project, I specially learnt how Grid element plays an important role in buidling responsive screen size. I also practiced to use other external visualization libraries like: react-calendar, react-chartjs-2, react-simple-maps, and etc.</p>
     </td>
-    
   </tr>
+  
   
 </table>
 
