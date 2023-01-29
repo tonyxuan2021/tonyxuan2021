@@ -85,7 +85,7 @@ https://user-images.githubusercontent.com/93957228/200680230-b785ba3c-9e74-4af4-
   <a href="https://github.com/maknelso/instagramClone" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
-  <a href="https://amazon.xuanye.ca/" target="_blank">
+  <a href="https://instagramserver.xuanye.ca/" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
