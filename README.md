@@ -72,7 +72,29 @@ https://user-images.githubusercontent.com/93957228/200680230-b785ba3c-9e74-4af4-
       </p>
         <p><strong>Embedded JavaScript (ES6), ReactJs, MUI, CSS, Redux + ReduxToolkit + RTK Query, NodeJs, ExpressJs, Prisma & PostgreSQL</strong> - Clone of Amazon.com is full stack web application built in a team of two that allows users to browse products, add items to the cart, and purchase. This project incorporated Redux hooks with Redux Toolkit for frontend data process and storage, it also used Prisma as primary ORM library for CRUD operations with PostgreSQL database.</p>
     </td>
-<td width="50%" valign="top">
+ <td width="50%" valign="top">
+      <h3 align="center">Clone of Instagram.com</h3>
+        <br>
+      <a target="_blank" href="https://instagramserver.xuanye.ca/"></a>    
+
+
+https://user-images.githubusercontent.com/93957228/200680230-b785ba3c-9e74-4af4-9bcc-3f97d42fd50e.mp4
+
+      
+  <p align="center">
+  <a href="https://github.com/maknelso/instagramClone" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>  
+  <a href="https://amazon.xuanye.ca/" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+  </a>
+      </p>
+        <p><strong>Embedded ReactJs, Python, MUI, Flask, PostgreSQL, AWS RDS, AWS S3, AWS EC2</strong> - Clone of Instagram.com is full stack web application built in a team of two that allows users to search, follow/unfollow users, like/unlike feed, comment on feed. This project Incorporated AWS S3 presigned URL to grant users the permission to upload feed on to the creator’s S3 bucket .</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">The Booktown</h3>
         <br>
       <a target="_blank" href="https://booktown.xuanye.ca/"></a>    
@@ -91,28 +113,7 @@ https://user-images.githubusercontent.com/93957228/200684357-2e041a9c-c063-4a51-
       </p>
         <p><strong>Embedded JavaScript (EJS), ReactJs, React Hooks, Context API, Sass, NodeJs, ExpressJs, KnexJs, MySql, Google Books API, Sripe API</strong> - This is the individual capstone project I build within the Bootcamp. My original idea was to build an e-commerce booking selling site, where users can add their favoriate books to cart, and finally being able to checkout. The biggest challenge I faced was to undertand how Context API works in React, so that the cart info will be accessible to the global state system, and therefore being able to sync with the order deatils that users select. In this project, I learnt the concept of context API, and also practiced the workflow of authorization and authentication.</p>
     </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Clone of Amazon.com</h3>
-        <br>
-      <a target="_blank" href="https://amazon.xuanye.ca/"></a>    
-
-
-https://user-images.githubusercontent.com/93957228/200680230-b785ba3c-9e74-4af4-9bcc-3f97d42fd50e.mp4
-
-      
-  <p align="center">
-  <a href="https://github.com/JoshL579/amazon-clone" target="_blank">
-    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-  </a>  
-  <a href="https://amazon.xuanye.ca/" target="_blank">
-    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
-  </a>
-      </p>
-        <p><strong>Embedded JavaScript (ES6), ReactJs, MUI, CSS, Redux + ReduxToolkit + RTK Query, NodeJs, ExpressJs, Prisma & PostgreSQL</strong> - Clone of Amazon.com is full stack web application built in a team of two that allows users to browse products, add items to the cart, and purchase. This project incorporated Redux hooks with Redux Toolkit for frontend data process and storage, it also used Prisma as primary ORM library for CRUD operations with PostgreSQL database.</p>
-    </td>
+   
 <td width="50%" valign="top">
       <h3 align="center">Diamond Admin PRO</h3>
         <br>
