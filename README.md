@@ -17,7 +17,7 @@ Hi there 👋 I'm Tony Ye
 
 
 - 🔭 I’m currently working on full stack web applications, including a clone of Instagram built with Python and Flask.
-- 🌱 I’m interested in frontend and backend development. Currently, I am learning Docker and kubernetes.
+- 🌱 I’m interested in frontend and backend development. Currently, I am learning GraphQl.
 - 👨 My main projects are available at: [https://xuanye.ca](https://xuanye.ca)
 - ⚡ Fun fact: I have a cat
 
